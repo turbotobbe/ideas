@@ -39,37 +39,14 @@
         <section id="main-content">
           {{ content }}
           <hr />
-          <p>
-          Uppdaterad {{ page.date | default: site.time | date_to_long_string }}
+          <p style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 14px;">
+          Uppdaterad {{ page.date | default: site.time | date_to_long_string }} av {{ page.author.name || default: site.author.name }}
           </p>
         </section>
         
 
         <aside id="sidebar">
           
-          <!--
-          <nav>
-            <h3>Navigera</h3>
-            <ul>
-            {% for item in site.data.navigation %}
-              <li>
-                {% assign full_url = site.context | append: page.url %}
-                
-                <a href="{{ item.link }}">
-                  {% if full_url == item.link %}
-                    <b>{{ item.name }}</b>
-                  {% else %}
-                    {{ item.name }}
-                  {% endif %}
-                </a>
-                {% if item.description %}
-                <br />{{ item.description }}
-                {% endif %}
-              </li>
-            {% endfor %}
-            </ul>
-          </nav>
-    -->
           <h3>{{ site.title }}</h3>
           <p>
             {{ site.description }}
