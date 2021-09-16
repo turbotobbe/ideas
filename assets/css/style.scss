@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-#main-content p:not(.pagestat):first-of-type {
+#main-content p:first-of-type {
   font-size: 1.25em;
 }
 
