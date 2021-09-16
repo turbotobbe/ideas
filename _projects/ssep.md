@@ -24,6 +24,3 @@ Använd marken till bra saker. t.ex. vildängar för insekter och pollinering.
 ## Finansiering
 Låna pengar av banker, eller andra låneinstitut.
 Återbetala på 10 år.
-
----
-Uppdaterad: {{ page.date | date_to_long_string }}
