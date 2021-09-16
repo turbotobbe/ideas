@@ -5,4 +5,5 @@ contact:
   mail: thobias.bergqvist@sparti.se
   name: Thobias Bergqvist
 collections:
-  - projects
+  projects:
+    permalink: /projects/:name
