@@ -6,4 +6,4 @@ contact:
   name: Thobias Bergqvist
 collections:
   projects:
-    permalink: /projects/:name
+    permalink: /:name
