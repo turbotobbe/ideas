@@ -4,7 +4,13 @@
 @import "{{ site.theme }}";
 
 #main-content p:first-of-type {
-  font-size: 1.25em;
+  font-size: 20px;
+}
+
+.pagestat {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-weight: bold
 }
 
 @media only screen and (min-width: 768px) {
