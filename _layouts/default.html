@@ -43,7 +43,7 @@
             Uppdaterad {{ page.date | default: site.time | date_to_long_string }}
             {% if page.author.name && page.author.mail %}
               av <a href="mailto:{{ page.author.mail }}">{{ page.author.name || default: site.author.name }}</a>
-            {% elif page.author.name %}
+            {% elsif page.author.name %}
               av {{ page.author.name }}
             {% endif %}
           </p>
