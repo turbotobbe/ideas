@@ -38,7 +38,7 @@
       <div class="inner clearfix">
         
         <section id="main-content">
-          <p style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 16px; font-weight: bold">
+          <p class="pagestat" style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 16px; font-weight: bold">
             Uppdaterad {{ page.date | default: site.time | date_to_long_string }}
             {% if page.author.name && page.author.mail %}
               av <a href="mailto:{{ page.author.mail }}">{{ page.author.name || default: site.author.name }}</a>
@@ -46,7 +46,6 @@
               av {{ page.author.name }}
             {% endif %}
           </p>
-          <hr />
           {{ content }}
         </section>
 
