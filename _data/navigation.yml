@@ -1,4 +1,5 @@
 - name: Hem
   link: /projects
-- name: SSEP - Svenska Sol Energi Parker
+- name: SSEP
+  descriptions: Svenska Sol Energi Parker
   link: /projects/ssep
