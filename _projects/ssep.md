@@ -2,6 +2,9 @@
 layout: default
 title: SSEP
 description: Svenska Sol Energi Parker
+author:
+  name: Thobias Bergqvist
+  mail: thobias.bergqvist@sparti.se
 ---
 Ett projekt för att få fart på byggandet av riktigt stora solenergiparker i Sverige.
 Målet är att konkurrera ut andra, icke hållbara, energiproduktioner.
