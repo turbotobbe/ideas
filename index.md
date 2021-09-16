@@ -7,7 +7,6 @@ Här är de projekt som har kommit så långt att de är beskrivna i text.
 
 {% for project in site.projects %}
 ## {{ project.title }} - {{ project.description }}
-Uppdaterad: {{ project.date }}
 [{{ project.url | absolute_url }}]({{ project.url | absolute_url }})
 {{ project.excerpt | markdownify }}
 {% endfor %}
