@@ -35,21 +35,11 @@
 
         <aside id="sidebar">
           
-          <h2>{{ site.title }}</h2>
-          <p>
-            {{ site.description }}
-          </p>
-
-          <h3>Uppdaterad</h3>
+          <h2>Uppdaterad</h2>
           <p>
             {{ page.date | default: site.time | date_to_long_string }}
           </p>
           
-          <h3>Vill du vara med?</h3>
-          <ul>
-            <li><a href="mailto:{{ site.contact.mail }}">{{ site.contact.name }}</a></li>
-          </ul>
-
           <nav>
             <h3>Navigera</h3>
             <ul>
@@ -65,8 +55,19 @@
             {% endfor %}
             </ul>
           </nav>
-          
-          <p>Den här siten genererades av <a href="https://pages.github.com">GitHub Pages</a>.</p>
+
+          <h3>{{ site.title }}</h3>
+          <p>
+            {{ site.description }}
+          </p>
+
+          <h3>Vill du vara med?</h3>
+          <p>Skicka bara iväg ett mail så hör vi av oss.</p>
+          <ul>
+            <li><a href="mailto:{{ site.contact.mail }}">{{ site.contact.name }}</a></li>
+          </ul>
+
+          <p>Den här siten genereras av <a href="https://pages.github.com">GitHub Pages</a>.</p>
         </aside>
       </div>
     </div>
