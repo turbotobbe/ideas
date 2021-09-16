@@ -6,6 +6,9 @@
 header a.button {
   background: transparent url(../images/sparti-button.png) 0 0 no-repeat;
 }
-a.button {
-  padding-left: 72px;
+
+@media only screen and (min-width: 768px) {
+  a.button {
+    padding-left: 72px;
+  }
 }
