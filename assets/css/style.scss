@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 header a.button {
-  background-image: url("../images/sparti_button.png");
+  background: transparent url(../images/sparti-button.png) 0 0 no-repeat;
 }
