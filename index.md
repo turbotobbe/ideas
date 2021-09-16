@@ -3,7 +3,7 @@ title: Projekt
 description: Beskrivningar av projekt
 ---
 
-Här är de projekt som har kommit så långt att de är beskrivna i text.
+Projekt som har formulerats mer eller mindre genomtänkt för att inte glömmas bort.
 
 {% for project in site.projects %}
 ## {{ project.title }} - {{ project.description }}
