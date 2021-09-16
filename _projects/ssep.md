@@ -2,7 +2,6 @@
 layout: default
 title: SSEP
 description: Svenska Sol Energi Parker
-permalink: /projects/ssep
 ---
 _ {{ page.title }} - {{ page.description }} _ är ett projekt för att få fart på byggandet av riktigt stora solenergiparker.
 
