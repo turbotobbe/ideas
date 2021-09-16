@@ -38,13 +38,15 @@
       <div class="inner clearfix">
         
         <section id="main-content">
-          <div class="pagestat" style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 16px; font-weight: bold">
+          <div class="pagestat">
+            <p>
             Uppdaterad {{ page.date | default: site.time | date_to_long_string }}
             {% if page.author.name && page.author.mail %}
               av <a href="mailto:{{ page.author.mail }}">{{ page.author.name || default: site.author.name }}</a>
             {% elsif page.author.name %}
               av {{ page.author.name }}
             {% endif %}
+            </p>
           </div>
           {{ content }}
         </section>
