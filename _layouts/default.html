@@ -40,10 +40,14 @@
           {{ content }}
           <hr />
           <p style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 14px;">
-          Uppdaterad {{ page.date | default: site.time | date_to_long_string }} av {{ page.author.name || default: site.author.name }}
+            Uppdaterad {{ page.date | default: site.time | date_to_long_string }}
+            {% if page.author.name && page.author.mail %}
+              av <a href="mailto:{{ page.author.mail }}">{{ page.author.name || default: site.author.name }}</a>
+            {% elif page.author.name %}
+              av {{ page.author.name }}
+            {% endif %}
           </p>
         </section>
-        
 
         <aside id="sidebar">
           
