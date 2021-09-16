@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+body, code, pre, blockquote {
+  font-size: 16px;
+}
+
+aside#sidebar {
+  font-size: 14px;
+}
+
 #main-content > p:first-of-type {
   font-size: 20px;
 }
