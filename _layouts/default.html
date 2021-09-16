@@ -23,6 +23,13 @@
           <h1>{{ page.title | default: site.title }}</h1>
         </a>
         <h2>{{ page.description | default: site.description }}</h2>
+        
+        {% if page.url == "/" %}
+          <a href="/" class="button"><small>En del av</small> {{ site.title }}</a>
+        {% else %}
+          <a href="{site.context}" class="button"><small>Titta på fler</small> Projekt</a>
+        {% endif %}
+
       </div>
     </header>
 
@@ -39,7 +46,7 @@
           <p>
             {{ page.date | default: site.time | date_to_long_string }}
           </p>
-          
+          <!--
           <nav>
             <h3>Navigera</h3>
             <ul>
@@ -61,7 +68,7 @@
             {% endfor %}
             </ul>
           </nav>
-
+    -->
           <h3>{{ site.title }}</h3>
           <p>
             {{ site.description }}
