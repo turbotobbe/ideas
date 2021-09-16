@@ -4,7 +4,7 @@ title: SSEP
 description: Svenska Sol Energi Parker
 permalink: /projects/ssep
 ---
-_{{page.title}} - {{page.description}}_ är ett projekt för att få fart på byggandet av riktigt stora solenergiparker.
+_ {{ page.title }} - {{ page.description }} _ är ett projekt för att få fart på byggandet av riktigt stora solenergiparker.
 
 ## En typisk Park
 En typisk park är 1 km^2 och ...
