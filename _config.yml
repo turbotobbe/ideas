@@ -2,5 +2,5 @@ theme: jekyll-theme-architect
 title: Sparti
 description: Sparti är dels ett konsultföretag som sysslar systemutveckling, och dels en organisation för att bedriva innovativa projekt på gränsen till drömmar.
 contact:
-  - mail: thobias.bergqvist@sparti.se
-  - name: Thobias Bergqvist
+  mail: thobias.bergqvist@sparti.se
+  name: Thobias Bergqvist
