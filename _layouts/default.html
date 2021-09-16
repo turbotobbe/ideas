@@ -52,6 +52,9 @@
                 <a href="{{ item.link }}">
                   {% if page.url == item.link %}<b>{% endif %}{{ item.name }}{% if page.url == item.link %}</b>{% endif %}
                 </a>
+                {% if item.description %}
+                <br />{{ item.description }}
+                {% endif %}
               </li>
             {% endfor %}
             </ul>
