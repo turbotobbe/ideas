@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+#main-content p:first-of-type {
+  font-size: 1.25em;
+}
+
 @media only screen and (min-width: 768px) {
   header a.button {
     background: transparent url(../images/sparti-button.png) 0 0 no-repeat;
