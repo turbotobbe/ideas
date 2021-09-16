@@ -3,7 +3,7 @@ title: Projekt
 description: Beskrivningar av projekt
 ---
 
-> Projekt som har formulerats mer eller mindre genomtänkt för att inte glömmas bort.
+Projekt som har formulerats mer eller mindre genomtänkt för att inte glömmas bort.
 
 {% for project in site.projects %}
 ## {{ project.title }} - {{ project.description }}
