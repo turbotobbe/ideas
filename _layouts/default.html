@@ -35,18 +35,20 @@
 
         <aside id="sidebar">
           
-          <h2>Uppdaterad</h2>
-          <p>{{ page.date | default: site.time | date_to_long_string }}</p>
-          
           <h2>{{ site.title }}</h2>
           <p>
             {{ site.description }}
           </p>
 
+          <h3>Uppdaterad</h3>
+          <p>
+            {{ page.date | default: site.time | date_to_long_string }}
+          </p>
+          
           <h3>Vill du vara med?</h3>
-          <p>
-            Hör av dig till <a href="mailto:{{ site.contact.mail }}">{{ site.contact.name }}</a>.
-          <p>
+          <ul>
+            <li><a href="mailto:{{ site.contact.mail }}">{{ site.contact.name }}</a></li>
+          </ul>
 
           <nav>
             <h3>Navigera</h3>
