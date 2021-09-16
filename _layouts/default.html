@@ -28,6 +28,9 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix">
+        <p style="text-align: center">
+        {{ page.date | default: site.time | date_to_long_string }}
+        </p>
         <section id="main-content">
           {{ content }}
         </section>
