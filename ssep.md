@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: SSEP
 description: Svenska Sol Energi Parker
 permalink: /projects/ssep
