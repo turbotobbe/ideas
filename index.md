@@ -4,8 +4,7 @@ description: Beskrivningar av projekt
 ---
 
 {% for project in site.projects %}
-## {{ project.title }}
-{{ project.description }}
+## {{ project.title }} - {{ project.description }}
 [({{ project.url | absolute_url }})]
 {{ project.excerpt | markdownify }}
 {% endfor %}
