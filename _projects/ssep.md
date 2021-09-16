@@ -1,9 +1,23 @@
 ---
-title: SSEP - Svenska Sol Energi Parker
-permalink: /ssep
+layout: default
+title: SSEP
+description: Svenska Sol Energi Parker
+permalink: /projects/ssep
 ---
+_{{page.title}} - {{page.description}}_ är ett projekt för att få fart på byggandet av riktigt stora solenergiparker.
 
-_SSEP - Svenska Sol Energi Parker_ är ett projekt för att få fart på byggandet av riktigt stora solenergiparker.
+## En typisk Park
+En typisk park är 1 km^2 och ...
 
-## Hur
-ja, det får vi väll se.
+## Site
+En park måste finnas någonstans. och vi vill ha många parker.
+
+## Samarbeten
+Kommuner vet bäst var det går att bygga parker. Arrendera mark.
+
+## Bonus
+Använd marken till bra saker. t.ex. vildängar för insekter och pollinering.
+
+## Finansiering
+Låna pengar av banker, eller andra låneinstitut.
+Återbetala på 10 år.
