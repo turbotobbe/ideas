@@ -11,7 +11,3 @@ Här är de projekt som har kommit så långt att de är beskrivna i text.
 {{ project.excerpt | markdownify }}
 {% endfor %}
 
-
----
-
-Uppdaterad: {{ site.time | date_to_long_string }}
