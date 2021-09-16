@@ -4,3 +4,5 @@ description: Sparti är dels ett konsultföretag som sysslar systemutveckling, o
 contact:
   mail: thobias.bergqvist@sparti.se
   name: Thobias Bergqvist
+collections:
+  projects
