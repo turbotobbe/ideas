@@ -1,8 +1,10 @@
 theme: jekyll-theme-architect
 title: Sparti AB
 description: |
-  Omtanke, Tillit och Måttfullhet grundar som allt Sparti AB gör sig på.
-  Dels konsultar vi inom systemutveckling men vi drömmer också om storslagna projekt för att göra världen mycket bättre.
+  Omtanke, Tillit och Måttfullhet
+  
+  Det är de grunderna som Sparti AB bygger på.
+  Vi konsultar inom systemutveckling till vardags, men drömmer också om storslagna projekt för att göra världen mycket bättre.
 context: /projects
 contact:
   mail: thobias.bergqvist@sparti.se
