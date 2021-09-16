@@ -7,4 +7,4 @@ contact:
 collections:
   projects:
     output: true
-    permalink: /p/:name
+    permalink: /:name
