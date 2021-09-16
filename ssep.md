@@ -1,6 +1,7 @@
 layout: page
 title: SSEP
 description: Svenska Sol Energi Parker
+permalink: /projects/sseb
 ---
 SSEP är ett projekt för att blah blah
 
