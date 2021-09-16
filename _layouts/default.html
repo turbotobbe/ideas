@@ -38,14 +38,15 @@
         
         <section id="main-content">
           {{ content }}
+          <hr />
+          <p>
+          Uppdaterad {{ page.date | default: site.time | date_to_long_string }}
+          </p>
         </section>
+        
 
         <aside id="sidebar">
           
-          <h2>Uppdaterad</h2>
-          <p>
-            {{ page.date | default: site.time | date_to_long_string }}
-          </p>
           <!--
           <nav>
             <h3>Navigera</h3>
