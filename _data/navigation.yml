@@ -1,5 +1,5 @@
-- name: Projekt
-  link: /projects/
+- name: Idéer
+  link: /ideas/
 - name: SSEP
   description: Svenska Sol Energi Parker
-  link: /projects/ssep
+  link: /ideas/ssep
