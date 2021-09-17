@@ -28,3 +28,9 @@ Använd marken till bra saker. t.ex. vildängar för insekter och pollinering.
 ## Finansiering
 Låna pengar av banker, eller andra låneinstitut.
 Återbetala på 10 år.
+
+| Park | Paneler | Effekt | Genererad | Area | Pris |
+| :-- | --: | --: | --: | --: | --: |
+| Strängnäs | 41 600 | 14 MW | 13 GWh | 35 Ha | 100 mnkr |
+| 100 Ha | 119 000 | 40 MW | 37 GWh | 100 Ha | 286 mnkr |
+| 100 GWh | 320 000 | 108 MW | 100 GWh | 269 Ha | 769 mnkr |
