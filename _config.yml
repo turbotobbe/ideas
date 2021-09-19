@@ -5,11 +5,11 @@ description: |
   
   Det är fundamentet som Sparti bygger på.
   Jag konsulterar inom systemutveckling till vardags, men drömmer också om storslagna projekt för att göra världen mycket bättre.
-context: /ideas
+context: /ideer
 contact:
   mail: thobias.bergqvist@sparti.se
   name: Thobias Bergqvist
 collections:
-  ideas:
+  ideer:
     output: true
     permalink: /:name
