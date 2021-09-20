@@ -99,20 +99,21 @@ Det är en stor initial kostnad som betalas av allt eftersom och det behöver in
 Så vem ska då betala för hela kalaset.
 Ja, eftersom det handlar om ganska mycket pengar så är det i princip bara banker och väldigt stora investerare som är kandidater.
 
-Vi föredrar banker då dessa inte har samma krav på hög avkastning än andra investerare. En bank är förmodligen ganska nöjd om den får kontinuerligt ränta över lång tid på ett stort kapital och gillar projekt med låg risk i. Precis det som vi försöker skapa.
+Vi föredrar banker då dessa inte har samma krav på hög avkastning som andra investerare. En bank är förmodligen ganska nöjd om den får kontinuerligt ränta över lång tid på ett stort kapital och gillar projekt med låg risk i. Precis det som vi försöker skapa.
 
-Parken i Linköping byggdes dels med medel som från [Infranode](https://infranode.se/) och skulle kunna vara en kandidat. Deras syfte är just att investera i denna nyper av infrastruktur. Det kanske finns andra liknande investerare också, vilket kan vara värt att titta närmare på. Förmodligen vill dock denna typ av investerare se någon typ av kortare avkastning på sin investering. Något som kanske ställer till det för vår kalkyl.
+Parken i Linköping byggdes dels med kapital från [Infranode](https://infranode.se/) som skulle kunna vara en annan kandidat. Deras syfte är just att investera i denna nyper av infrastruktur. Det kanske finns andra liknande investerare också, vilket kan vara värt att titta närmare på. Förmodligen vill dock denna typ av investerare se någon typ av kortare avkastning på sin investering. Något som kanske ställer till det för vår kalkyl.
 
 Generellt kan man väll säga att det här projektet inte har några ambitioner på att ge ekonomisk avkastning i närtid. Vi gör detta av klimatskäl och är helt ok med att ha lång tidshorisont på budgeten. Det hör dock till god ekonomi att se till att betala sina skulder, vilket vi absolut måste och ska göra enligt avbetalningsplanerna som fastslås.
 Vi vill helt enkelt låna massa pengar nu, bygga parker som bara står och producerar el och sakteliga betala av det vi har lånat.
-Kan vi sen förbättra det här upplägget med PPA eller bättre villkor på lånen/investeringarna så kan vi absolut göra det. Men inte på bekostnad av vårt huvudmål.
+Kan vi sen förbättra det här upplägget med PPA eller bättre villkor på lånen/investeringarna så ska vi absolut göra det. Men inte på bekostnad av vårt huvudmål.
 
 ## Samarbete
 När det kommer till platser för dessa parker så är vår idé att ha ett stort samarbete med sveriges kommuner.
 Tanken är att det är på kommunnivå som man kan ta beslut om var det skulle vara lämpligt att placera dessa parker.
 Dessutom täcker kommunerna hela sveriges yta vilket gör att vi får en bra helhetsbild över solenergi i Sverige.
+Förhoppningen är att kommunerna har mark som vi kan få ställa våra parker på istället för att vi ska köpa mark av privata aktörer.
 
-Kommunerna får aggera experter på sin ort. Dessutom har många kommuner redan en uttalat miljö/klimat samordnare.
+Kommunerna får aggera experter på sin ort. Dessutom har många kommuner redan en uttalad miljö/klimat samordnare.
 Denne bör vara rätt person att samarbeta med och antagligen ser en sån person fördelarna och möjligheterna med att bygga en park i dennes kommun.
 Alla kommuner rapporterar ju idag sitt klimatarbete till regeringen och det här skulle kunna vara en bra insats som dom kan driva på, eller iaf släppa igenom.
 
@@ -120,17 +121,18 @@ Vi vill dock inte utnyttja detta samarbete. Många kommuner verkar ha det svårt
 Det kan t.o.m. vara så att vi måste arrendera den mark som parken ska stå på, isf får det räknas in i budgeten, men helst ser vi att vi får tillgång till mark i utbyte mot att kommunen hjälper till i Sveriges klimatanpassningsarbete.
 
 Något att ha i åtanke är att vi inte ska skada andra miljövärden.
-Med det menas t.ex. att vi inte ska skövja en massa skog för att sätta upp solpaneler.
+Med det menas t.ex. att vi inte ska skövla en massa skog för att sätta upp solpaneler.
 Tvärtom ska vi försöka utnyttja de ytor som inte är attraktiva för andra.
 Så länge panelerna kan stå i solen så har vi inte särskillt höga krav på platsen.
-Inga människor kommer t.ex. behövs vistas på platsen till vardags.
+Inga människor kommer t.ex. behöva vistas på platsen till vardags.
 
 ## Extra positivt
 Som bonus när man sätter upp en sån här park är att man får ett relativt skyddat område av betydande storlek.
 Där kan man bedriva diverse olika miljö- och klimatfrämjande projekt.
 Som exempel kan man låta marken bli en vildäng där insekter och bin kan frodas och främja artrikedom och liknande.
 Kanske kan det vara intressant för små fåglar eller sorkar att bygga sina bon här.
-Ja, återigen så tror jag kommunerna kan ha egna små projekt som kan få plats här, eller projekt som drivs av slu t.ex. (så som det är gjort på en del parker i sverige)
+Ja, återigen så tror jag kommunerna är experterna som kan ha egna små projekt ämpliga att bedrivas här.
+Ett annat alternativ är projekt drivna av t.ex. slu (så som det är gjort på en del parker i sverige)
 Det finns säkert massa bra saker man kan göra i kombination med solceller och det får vi hoppas att kommunerna ser som lite extra positivt i projektet.
 
 ## Byggnation
@@ -143,10 +145,7 @@ Här verkar det finns några olika bolag som erbjuder sig att bygga parker. Någ
 
 Om vi ska klara av att bygga många parker parallellt så gäller det att vi väljer ett bolag som erbjuder en helhetslöstning.
 Sveasolar erbjuder t.ex. ett helhetskoncept så här:
-> **Design**
->
-> Med höga kompetens säkerställer vi teknisk design för den högsta avkastningen.
-> 
+
 > **Konstruktion**
 > 
 > Fullständig installation av solparken, vi sköter allt, från ansökningsprocess till implementation.
