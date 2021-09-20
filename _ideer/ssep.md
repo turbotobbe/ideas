@@ -7,7 +7,7 @@ author:
   mail: thobias.bergqvist@sparti.se
 ---
 
-**Varje svensk kommun ska få en solcellspark på 100 MW.**
+**En 100 MW solenergipark i varje svensk kommun.**
 Idén är att införa elproduktion via solenergi på en industiell nivå.
 Detta genom ett bra sammarbete med sveriges kommuner, långsiktiga lån från bankerna, och en reproducerbar projektmodell.
 Kan vi bidra med 10% av Sveriges årliga elproduktion mha solenergi inom några år?
