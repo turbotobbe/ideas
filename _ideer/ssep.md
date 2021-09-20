@@ -10,24 +10,25 @@ author:
 **Varje svensk kommun ska få en solcellspark på 100 MW.**
 Idén är att införa elproduktion via solenergi på en industiell nivå.
 Detta genom ett bra sammarbete med sveriges kommuner, långsiktiga lån från bankerna, och en reproducerbar projektmodell.
-Kan vi täcka 10% av Sveriges årliga elkonsumtion mha solenergi inom några år?
+Kan vi bidra med 10% av Sveriges årliga elproduktion mha solenergi inom några år?
 
 ## Bakgrund
 Priset på solcellspaneler har sjunkit och nu planat ut samtidigt som effektiviteten ständigt blir bättre och bättre.
-Detta gör att det har blivit en ekonomiskt fungerande lösning på elproduktion.
+Detta gör att solcellsparker har blivit en ekonomiskt fungerande lösning på elproduktion.
 Det börjar iofs byggas mer och mer solcellsparker, men tittar man på de största i Sverige så är dom helt enkelt inte stora nog, eller för den delen tillräckligt många, för att de på allvar ska bidra till ett förbättrat klimat.
-2019 stod solkraft för 0,5% av sveriges elproduktion.
-Det sätt som man bygger parker på är inte heller skalbart, då man utgår från ett visst område och projekterar bara denna site.
+2019 stod solkraft för 0,5% av sveriges elproduktion. (Källa: [scb](https://www.scb.se/hitta-statistik/sverige-i-siffror/miljo/elektricitet-i-sverige/))
+Det sätt som man bygger parker på är inte skalbart, då man utgår från ett visst område och projekterar bara denna site.
 
 ## Lösningen
-Först och främst måste vi göra större parker. Den 5 största parkerna i Sverige ligger på ca 10-20 MW. Vi ska bygga parker i storleken 100MW (eller 100 GWh per år). 
+Först och främst måste vi göra större parker. Den 5 största parkerna i Sverige ligger på ca 3-14 MW (Källa: [solcellskollen](https://www.solcellskollen.se/blogg/sveriges-storsta-solcellspark-har-invigts-samtidigt-som-planer-for-annu-storre-parker-smids)).
+Vi ska bygga parker i storleken 100MW (eller 100 GWh per år). 
 Då kan vi pressa priserna och producera el som gör skillnad för Sverige.
 Vi ska göra en projektmodell som vi sedan kan återanvända.
 Sedan ska vi samarbeta med Sveriges kommuner för att se till olika lokala lösningar.
 Kommunerna vet bäst vad som passar dem och kan arrendera ut mark till oss.
 Ett mål är att ha en park i varje Svensk kommun. Då skulle vår lösning spela en viktig roll i Sveriges omställning.
-Om häften av sveriges kommuner är med kan vi få till upp emot 14TWh vilket skulle motsvara upp emot 9% av sveriges produktion.
-Då gör vi faktiskt en påtaglig skillnad.
+Om häften av sveriges kommuner är med kan vi få till upp emot 14TWh vilket skulle motsvara nästan 9% av sveriges produktion.
+Då gör vi faktiskt en påtaglig skillnad och bidrar på ett väsentligt sätt till omställningen.
 
 ## Modellen
 Det är några olika delar som måste finnas på plats för att bygga en solenergipark.
@@ -36,22 +37,29 @@ Det är några olika delar som måste finnas på plats för att bygga en solener
 * Den ska byggas.
 * Den ska betalas av.
 
+Nedan är en beskrivning av de olika delarna. Den är inte på något sätt färdig, men ger en fingervisning om vad vi vill.
+Det första som behöver göras är en mer noggran analys och en bredare kunskap inom området, men det här duger gott för att diskutera ett genomförande.
+
 ## Storlek
 Först måste vi reda ut några siffror.
 Vi utgår från Sveriges största solcellspark i Strängnäs och sen skalar vi upp den till den storlek vi siktar på. alltså 100GWh per år.
 I tabellen nedan har vi även tagit med ett exempel på parker som är 1 hektar (1 km^2) stora för att få en känsla för vad vi pratar om.
 
-| Park | Strängnäs | 1 km^2 | 100GWh |
-| :-- | --: | --: | --: |
-| Paneler | 41 600 | 119 000 | 320 000|
-| Installerad Effekt | 40 MW | 14 MW | 108 MW |
-| Genererad effekt | 37 MWh | 13 GWh | 100 GWh |
-| Area | 35 Ha | 100 Ha | 269 Ha |
-| Pris | 100 mkr | 286 mkr | 769 mkr |
+| Park               | Strängnäs | 1 km^2  | 100 GWh |
+| :--                | --:       | --:     | --:     |
+| Paneler            | 41  600   | 119 000 | 320 000 |
+| Installerad Effekt | 14  MW    |  40 MW  |  108 MW |
+| Genererad effekt   | 13  GWh   |  37 GWh | 100 GWh |
+| Area               | 35  Ha    | 100 Ha  |  269 Ha |
+| Pris               | 100 mkr   | 286 mkr | 769 mkr |
+
+Källa: [energi-engagemang](https://www.energiengagemang.se/solceller/solcellsparker/hsb-solcellspark/)
 
 Solcellsparken i Linköping, som är Sveriges näst största med sin 12 MW installerade effekt, har 30 000 panel på en yta av 13 Ha.
 Om man istället räknar med Linköpingsparken så skulle en 100 MW park behöva drygt 100 Ha. Alltså i runda slängar 1 MW / Ha.
 En rimlig lösning kanske ligger någonstans mellan dessa areor.
+
+Källa: [tekniska verken](https://www.tekniskaverken.se/om-oss/verksamheten/solenergi2/sveriges-storsta-solcellspark-byggs-i-linkoping/)
 
 ## Intäkter
 När man ska sälja sin el finns det två sätt.
@@ -60,7 +68,7 @@ När man ska sälja sin el finns det två sätt.
 
 Antingen säljer man den till "spotpris".
 Det betyder att man konkurrerar med alla andra elleverantörer på elmarknaden.
-Priset styrs av efterfrågan och i dagsläget verkar den ligga på 40 öre/kWh.
+Priset styrs av efterfrågan och i dagsläget verkar den ligga på 40 öre/kWh. (Källa [elpriser24](https://elpriser24.se/spotpris/))
 Om man ska sia om framtiden och elens betydelse så tror vi att priset kommer att öka kommande år. Det är dock en ren gissning och en välkommen bonus för oss om den inträffar.
 Det här är det sätt som är minst lönsamt, men också det alternativ som är garanterat eftersom man alltid kan sälja till din här marknaden.
 Därför bygger vi vår modell på dessa siffror, och om vi lyckas sälja PPA:er istället så kommer kalkylen bara se bättre ut.
