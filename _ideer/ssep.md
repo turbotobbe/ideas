@@ -155,3 +155,25 @@ Sveasolar erbjuder t.ex. ett helhetskoncept så här:
 > Vi underhåller och övervaka din park under hela dess livslängd.
 
 Det kanske inte är den mest ekonomiska lösningen, men får det plats i budgeten så kan det vara värt att experterna tar hand om hela projekteringen.
+
+## Framtiden
+Låt oss fundera en sekund på vad som skulle hända om vi sjösatte det här projektet.
+
+* Någon månad av grundarbete där vi läser på mer om ämnet, vilka aktörerna är och hur en budget skulle se ut.
+* Utskick till alla sveriges kommuner där ett förslag på upplägg ges.
+* Någon månad av diskussioner ang detaljer som kommunerna kan tänkas ha samt intresseanmälan (letter of intent).
+* Prata med banker ang lån för att driva igenom de intresseanmälda kommunernas planer.
+* Skriva på när både banker och kommuner är nöjda.
+* Beställa parkbyggnation av leverantörer.
+* Efter upp till ett halvår är parken igång och rullar på automatiskt i 30 år.
+
+Det skulle bli en del arbete tills parkerna är på plats men sen rullar det på i princip av sig själv.
+Förmodligen skulle det behövas anställas någon/några personer för att driva allt, men någon stor organisation behövs nog inte.
+Redan efter att första parken är underskriven har vi förmodligen ekonomiskt utrymme att anställa de som ev. behövs.
+
+Även om det är stora pengar det handlar om så behöver det nödvändigtvis inte vara särskillt tidskrävande.
+Vi vill att merparten av de parker som kommer byggas skall vara operationella inom 2 år.
+Att det inte tar längre tid är ganska viktigt.
+I förlängningen vill vi nämligen göra detta i länder som är större elproducenter än Sverige, och framförallt länder som bränner mycket kol, och då är det väldigt viktigt att vi kan visa upp vad vi gjort i Sverige som ett bra och effektigt exempel.
+
+Låt oss bara leka med tanken för en sekund, att vi gör om 10% av Kinas kolbaserad elproduktion till solkraft. Ja, drömma är gratis har jag hört...
