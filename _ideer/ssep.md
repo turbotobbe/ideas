@@ -20,7 +20,7 @@ Det börjar iofs byggas mer och mer solcellsparker, men tittar man på de störs
 Det sätt som man bygger parker på är inte skalbart, då man utgår från ett visst område och projekterar bara denna site.
 
 ## Lösningen
-Först och främst måste vi göra större parker. Den 5 största parkerna i Sverige ligger på ca 3-14 MW (Källa: [solcellskollen](https://www.solcellskollen.se/blogg/sveriges-storsta-solcellspark-har-invigts-samtidigt-som-planer-for-annu-storre-parker-smids)).
+Först och främst måste vi göra större parker. De 5 största parkerna i Sverige ligger på ca 3-14 MW (Källa: [solcellskollen](https://www.solcellskollen.se/blogg/sveriges-storsta-solcellspark-har-invigts-samtidigt-som-planer-for-annu-storre-parker-smids)).
 Vi ska bygga parker i storleken 100MW (eller 100 GWh per år). 
 Då kan vi pressa priserna och producera el som gör skillnad för Sverige.
 Vi ska göra en projektmodell som vi sedan kan återanvända.
@@ -42,10 +42,11 @@ Det första som behöver göras är en mer noggran analys och en bredare kunskap
 
 ## Storlek
 Först måste vi reda ut några siffror.
-Vi utgår från Sveriges största solcellspark i Strängnäs och sen skalar vi upp den till den storlek vi siktar på. alltså 100GWh per år.
-I tabellen nedan har vi även tagit med ett exempel på parker som är 1 hektar (1 km^2) stora för att få en känsla för vad vi pratar om.
+Vi utgår från Sveriges största solcellspark i Strängnäs.
+Sen skalar vi upp den till den storlek vi siktar på. alltså 100 GWh per år.
+I tabellen nedan har vi även tagit med ett exempel på parker som är 100 hektar (1 km^2) för att få en känsla för vad vi pratar om.
 
-| Park               | Strängnäs | 1 km^2  | 100 GWh |
+|                    | Strängnäs | 1 km^2  | 100 GWh |
 | :--                | --:       | --:     | --:     |
 | Paneler            | 41  600   | 119 000 | 320 000 |
 | Installerad Effekt | 14  MW    |  40 MW  |  108 MW |
@@ -70,7 +71,8 @@ Antingen säljer man den till "spotpris".
 Det betyder att man konkurrerar med alla andra elleverantörer på elmarknaden.
 Priset styrs av efterfrågan och i dagsläget verkar den ligga på 40 öre/kWh. (Källa [elpriser24](https://elpriser24.se/spotpris/))
 Om man ska sia om framtiden och elens betydelse så tror vi att priset kommer att öka kommande år. Det är dock en ren gissning och en välkommen bonus för oss om den inträffar.
-Det här är det sätt som är minst lönsamt, men också det alternativ som är garanterat eftersom man alltid kan sälja till din här marknaden.
+
+Det här är det sätt som är minst lönsamt, men också det alternativ som är garanterat eftersom man alltid kan sälja till den här marknaden.
 Därför bygger vi vår modell på dessa siffror, och om vi lyckas sälja PPA:er istället så kommer kalkylen bara se bättre ut.
 Lite olika scenarior ser ut så här för en 100 GWh park.
 
@@ -92,7 +94,7 @@ En sådan här park är alltså avbetald på kanske 20 år.
 Helt utan bidrag eller subventioner från varken regeringen eller andra aktörer. 
 Eftersom vi anser att risken att inte få avkastning i ett sådant här projekt är liten bör det vara möjligt att hitta lån/investeringar till relativt låga räntor/avkastningskrav.
 
-Den här modellen bör dessutom vara helt ok att skala upp från 1 park till 10 parker eller 100 stycken.
+Den här modellen bör dessutom vara helt ok att skala upp från 1 park till 10 eller 100 parker.
 Det är en stor initial kostnad som betalas av allt eftersom och det behöver inte vara några stora variationer från en park till en annan när det kommer till den ekonomiska modellen.
 
 ## Pengar
@@ -101,16 +103,16 @@ Ja, eftersom det handlar om ganska mycket pengar så är det i princip bara bank
 
 Vi föredrar banker då dessa inte har samma krav på hög avkastning som andra investerare. En bank är förmodligen ganska nöjd om den får kontinuerligt ränta över lång tid på ett stort kapital och gillar projekt med låg risk i. Precis det som vi försöker skapa.
 
-Parken i Linköping byggdes dels med kapital från [Infranode](https://infranode.se/) som skulle kunna vara en annan kandidat. Deras syfte är just att investera i denna nyper av infrastruktur. Det kanske finns andra liknande investerare också, vilket kan vara värt att titta närmare på. Förmodligen vill dock denna typ av investerare se någon typ av kortare avkastning på sin investering. Något som kanske ställer till det för vår kalkyl.
+Parken i Linköping byggdes dels med kapital från [Infranode](https://infranode.se/) som skulle kunna vara en annan kandidat. Deras syfte är just att investera i denna nyp av infrastruktur. Det kanske finns andra liknande investerare också, vilka kan vara värt att titta närmare på. Förmodligen vill dock denna typ av investerare se någon typ av kortsiktigare avkastning på sin investering. Något som kanske ställer till det för vår kalkyl.
 
 Generellt kan man väll säga att det här projektet inte har några ambitioner på att ge ekonomisk avkastning i närtid. Vi gör detta av klimatskäl och är helt ok med att ha lång tidshorisont på budgeten. Det hör dock till god ekonomi att se till att betala sina skulder, vilket vi absolut måste och ska göra enligt avbetalningsplanerna som fastslås.
 Vi vill helt enkelt låna massa pengar nu, bygga parker som bara står och producerar el och sakteliga betala av det vi har lånat.
 Kan vi sen förbättra det här upplägget med PPA eller bättre villkor på lånen/investeringarna så ska vi absolut göra det. Men inte på bekostnad av vårt huvudmål.
 
 ## Samarbete
-När det kommer till platser för dessa parker så är vår idé att ha ett stort samarbete med sveriges kommuner.
+När det kommer till platser för dessa parker så är vår idé att ha ett gediget samarbete med sveriges kommuner.
 Tanken är att det är på kommunnivå som man kan ta beslut om var det skulle vara lämpligt att placera dessa parker.
-Dessutom täcker kommunerna hela sveriges yta vilket gör att vi får en bra helhetsbild över solenergi i Sverige.
+Dessutom täcker kommunerna hela sveriges yta vilket gör att vi får en bra helhetsbild över solenergipotensial i Sverige.
 Förhoppningen är att kommunerna har mark som vi kan få ställa våra parker på istället för att vi ska köpa mark av privata aktörer.
 
 Kommunerna får aggera experter på sin ort. Dessutom har många kommuner redan en uttalad miljö/klimat samordnare.
@@ -129,9 +131,9 @@ Inga människor kommer t.ex. behöva vistas på platsen till vardags.
 ## Extra positivt
 Som bonus när man sätter upp en sån här park är att man får ett relativt skyddat område av betydande storlek.
 Där kan man bedriva diverse olika miljö- och klimatfrämjande projekt.
-Som exempel kan man låta marken bli en vildäng där insekter och bin kan frodas och främja artrikedom och liknande.
+Som exempel kan man låta marken bli en vildäng där insekter och bin kan frodas och främja artrikedom, pollinering och liknande.
 Kanske kan det vara intressant för små fåglar eller sorkar att bygga sina bon här.
-Ja, återigen så tror jag kommunerna är experterna som kan ha egna små projekt ämpliga att bedrivas här.
+Ja, återigen så tror vi att kommunerna är experterna som kan ha egna små projekt lämpliga att bedrivas här.
 Ett annat alternativ är projekt drivna av t.ex. slu (så som det är gjort på en del parker i sverige)
 Det finns säkert massa bra saker man kan göra i kombination med solceller och det får vi hoppas att kommunerna ser som lite extra positivt i projektet.
 
