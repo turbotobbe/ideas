@@ -93,7 +93,7 @@ Ja, eftersom det handlar om ganska mycket pengar så är det i princip bara bank
 
 Vi föredrar banker då dessa inte har samma krav på hög avkastning än andra investerare. En bank är förmodligen ganska nöjd om den får kontinuerligt ränta över lång tid på ett stort kapital och gillar projekt med låg risk i. Precis det som vi försöker skapa.
 
-Parken i Linköping byggdes dels med medel som från (infranode)[https://infranode.se/] och skulle kunna vara en kandidat. Deras syfte är just att investera i denna nyper av infrastruktur. Det kanske finns andra liknande investerare också, vilket kan vara värt att titta närmare på. Förmodligen vill dock denna typ av investerare se någon typ av kortare avkastning på sin investering. Något som kanske ställer till det för vår kalkyl.
+Parken i Linköping byggdes dels med medel som från [Infranode](https://infranode.se/) och skulle kunna vara en kandidat. Deras syfte är just att investera i denna nyper av infrastruktur. Det kanske finns andra liknande investerare också, vilket kan vara värt att titta närmare på. Förmodligen vill dock denna typ av investerare se någon typ av kortare avkastning på sin investering. Något som kanske ställer till det för vår kalkyl.
 
 Generellt kan man väll säga att det här projektet inte har några ambitioner på att ge ekonomisk avkastning i närtid. Vi gör detta av klimatskäl och är helt ok med att ha lång tidshorisont på budgeten. Det hör dock till god ekonomi att se till att betala sina skulder, vilket vi absolut måste och ska göra enligt avbetalningsplanerna som fastslås.
 Vi vill helt enkelt låna massa pengar nu, bygga parker som bara står och producerar el och sakteliga betala av det vi har lånat.
@@ -129,9 +129,9 @@ Det finns säkert massa bra saker man kan göra i kombination med solceller och 
 Så vad återstår då om vi har fått lånelöften och platslöften.
 Jo, det ska byggas en solcellspark.
 Här verkar det finns några olika bolag som erbjuder sig att bygga parker. Några exempel:
-* (https://www.energiengagemang.se/)[https://www.energiengagemang.se/]
-* (https://sveasolar.com/se/solpark/)[https://sveasolar.com/se/solpark/]
-* (https://www.alight-energy.com/sv)[https://www.alight-energy.com/sv]
+* [energi-engagemang](https://www.energiengagemang.se/)
+* [sveasolar](https://sveasolar.com/se/solpark/)
+* [alight](https://www.alight-energy.com/sv)
 
 Om vi ska klara av att bygga många parker parallellt så gäller det att vi väljer ett bolag som erbjuder en helhetslöstning.
 Sveasolar erbjuder t.ex. ett helhetskoncept så här:
