@@ -45,7 +45,8 @@ table td:first-child {
   border-left: 0px;
 }
 
-li > lu {
+li > ul,
+li > ol {
   margin-bottom: 0px;
 }
 @media only screen and (min-width: 768px) {
