@@ -218,3 +218,21 @@ Att det inte tar längre tid är ganska viktigt.
 I förlängningen vill vi nämligen göra detta i länder som är större elproducenter än Sverige, och framförallt länder som bränner mycket kol, och då är det väldigt viktigt att vi kan visa upp vad vi gjort i Sverige som ett bra och effektigt exempel.
 
 Låt oss bara leka med tanken för en sekund, att vi gör om 10% av Kinas kolbaserad elproduktion till solkraft. Ja, drömma är gratis har jag hört...
+
+---
+
+## Frågor som behöver besvaras
+| Frågor | Svar |
+| - | - |
+| Finns det övriga kostnader? | |
+| Vem betalar om en panel går sönder genom åren? | |
+| Finns det underhåll/driftkostnader? | |
+| Kommer personalkostnader äta upp vinsten? | |
+| Är det vettigt att ha solcellsparker i norr där solen skiner bara halva året? | |
+| Hur mycket mark sitter kommunerna på? | |
+| Skulle de inte heller använda det till att bygga bostäder? | |
+| Är det inte kommunpolitiker som bestämmer hur mark används? | |
+| brukar inte det ta typ 20 år innan de bestämmer något? | |
+| hur börjar man? (Bankerna vill nog att kommunerna är med först. Kommunerna vill veta att bankerna är villiga att investera. Moment 22.) | |
+| Klarar solcellsbolagen av sådana stora projekt? | |
+| Finns det tekniska begränsningar när man trycker in sådana stora mängder el i gridet? | |
