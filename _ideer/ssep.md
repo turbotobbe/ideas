@@ -15,19 +15,21 @@ Kan vi bidra med 10% av Sveriges årliga elproduktion mha solenergi inom några 
 ## Bakgrund
 Priset på solcellspaneler har sjunkit och nu planat ut samtidigt som effektiviteten ständigt blir bättre och bättre.
 Detta gör att solcellsparker har blivit en ekonomiskt fungerande lösning på elproduktion.
-Det börjar iofs byggas mer och mer solcellsparker, men tittar man på de största i Sverige så är dom helt enkelt inte stora nog, eller för den delen tillräckligt många, för att de på allvar ska bidra till ett förbättrat klimat.
+Det börjar byggas mer och mer solcellsparker, men tittar man på de största i Sverige så är dom helt enkelt inte stora nog, eller för den delen tillräckligt många, för att de på allvar ska bidra till ett förbättrat klimat.
 2019 stod solkraft för 0,5% av sveriges elproduktion. (Källa: [scb](https://www.scb.se/hitta-statistik/sverige-i-siffror/miljo/elektricitet-i-sverige/))
 Det sätt som man bygger parker på är inte skalbart, då man utgår från ett visst område och projekterar bara denna site.
 
 ## Lösningen
 Först och främst måste vi göra större parker. De 5 största parkerna i Sverige ligger på ca 3-14 MW (Källa: [solcellskollen](https://www.solcellskollen.se/blogg/sveriges-storsta-solcellspark-har-invigts-samtidigt-som-planer-for-annu-storre-parker-smids)).
-Vi ska bygga parker i storleken 100MW (eller 100 GWh per år). 
+Vi ska bygga parker i storleken 100 MW (eller 100 GWh per år). 
 Då kan vi pressa priserna och producera el som gör skillnad för Sverige.
 Vi ska göra en projektmodell som vi sedan kan återanvända.
-Sedan ska vi samarbeta med Sveriges kommuner för att se till olika lokala lösningar.
+Sedan ska vi samarbeta med Sveriges kommuner för att göra lokalt anpassade lösningar.
 Kommunerna vet bäst vad som passar dem och kan arrendera ut mark till oss.
+
 Ett mål är att ha en park i varje Svensk kommun. Då skulle vår lösning spela en viktig roll i Sveriges omställning.
-Om häften av sveriges kommuner är med kan vi få till upp emot 14TWh vilket skulle motsvara nästan 9% av sveriges produktion.
+En del små kommuner kanske inte har plats, men å andra sidan finns det stora kommuner som har plats för flera parker.
+Om häften av sveriges kommuner är med kan vi få till upp emot 14 TWh vilket skulle motsvara nästan 9% av sveriges produktion.
 Då gör vi faktiskt en påtaglig skillnad och bidrar på ett väsentligt sätt till omställningen.
 
 ## Modellen
@@ -38,15 +40,15 @@ Det är några olika delar som måste finnas på plats för att bygga en solener
 * Den ska betalas av.
 
 Nedan är en beskrivning av de olika delarna. Den är inte på något sätt färdig, men ger en fingervisning om vad vi vill.
-Det första som behöver göras är en mer noggran analys och en bredare kunskap inom området, men det här duger gott för att diskutera ett genomförande.
+Det första som behöver göras är en mer noggrannare analys och skaffa mer kunskap inom området, men det här duger gott för att diskutera ett genomförande.
 
 ## Storlek
 Först måste vi reda ut några siffror.
 Vi utgår från Sveriges största solcellspark i Strängnäs.
 Sen skalar vi upp den till den storlek vi siktar på. alltså 100 GWh per år.
-I tabellen nedan har vi även tagit med ett exempel på parker som är 100 hektar (1 km^2) för att få en känsla för vad vi pratar om.
+I tabellen nedan har vi även tagit med ett exempel på en 100 hektar (1 km^2) park för att få en känsla för vad vi pratar om.
 
-|                    | Strängnäs | 1 km^2  | 100 GWh |
+|                    | Strängnäs | 100 Ha  | 100 GWh |
 | :--                | --:       | --:     | --:     |
 | Paneler            | 41  600   | 119 000 | 320 000 |
 | Installerad Effekt | 14  MW    |  40 MW  |  108 MW |
@@ -64,10 +66,10 @@ Källa: [tekniska verken](https://www.tekniskaverken.se/om-oss/verksamheten/sole
 
 ## Intäkter
 När man ska sälja sin el finns det två sätt.
-* Spotpris
-* PPA
+* Den gemensamma elmarknaden [NordPool](https://www.nordpoolgroup.com/)
+* Försäljning av PPA (Power Purchase Agreement)
 
-Antingen säljer man den till "spotpris".
+Antingen säljer man den till på elmarknaden till "spotpris".
 Det betyder att man konkurrerar med alla andra elleverantörer på elmarknaden.
 Priset styrs av efterfrågan och i dagsläget verkar den ligga på 40 öre/kWh. (Källa [elpriser24](https://elpriser24.se/spotpris/))
 Om man ska sia om framtiden och elens betydelse så tror vi att priset kommer att öka kommande år. Det är dock en ren gissning och en välkommen bonus för oss om den inträffar.
@@ -83,7 +85,7 @@ Lite olika scenarior ser ut så här för en 100 GWh park.
 | 60 öre | 60 mkr | 7,8 % | 13 år |
 | 80 öre | 80 mkr | 10,4 % | 10 år |
 
-Det andra sättet är så kallade PPA (Power Purchase agreement). Det går ut på att man säljer elen till en aktör, ett företag eller liknande, till ett fastpris över lång tid.
+Det andra sättet är så kallade PPA. Det går ut på att man säljer elen till en aktör, ett företag eller liknande, till ett fastpris över lång tid.
 I utbyte får aktören grön el och lättare att förutse elkostnader.
 Med detta sätt kan man ta ut ett högre pris för elen, men man måste då ha aktörer som vill vara med, och det är inget man kan räkna med.
 En stor fördel med detta sätt, både för oss och aktören, är att man kan förutse kostnader/intäkter mycket bättre än på den fluktuerande elmarknaden.
@@ -109,6 +111,38 @@ Generellt kan man väll säga att det här projektet inte har några ambitioner 
 Vi vill helt enkelt låna massa pengar nu, bygga parker som bara står och producerar el och sakteliga betala av det vi har lånat.
 Kan vi sen förbättra det här upplägget med PPA eller bättre villkor på lånen/investeringarna så ska vi absolut göra det. Men inte på bekostnad av vårt huvudmål.
 
+Några som vi absolut skall erbjuda PPA:er är de kommuner som låter oss bygga parker hos dem och även de banker vi ska prata med.
+Utöver det så kanske det skulle kunna gå att prata med olika elbolag.
+
+## Risker
+Vad är egentligen riskerna i det här projektet.
+
+Normal skulle man kunna nämna att råvaran inte längre är tillgänglig, vilket skulle motsvara att solen inte längre kommer lysa.
+Det behöver vi inte oroa oss för på många miljarder år.
+
+En annan risk skulle vara att man inte kan sälja det man producerar.
+Men eftersom det finns en gemensam marknad där man alltid kan sälja till så är även denna risk minimal.
+I den här risken kan man även ha risken att efterfrågan försvinner.
+Det ser vi som högst osannolikt.
+
+Vi kommer inte heller ha något svinn i form av lagerproblem eller skillnader i tillverkning och konsumtion.
+Helt enkelt pga att det ända vi gör är att samla in den näst intill oändliga resursen och säljer den direkt till en omättlig marknad.
+
+Den risk vi ser är att elpriset dyker så att vi inte kan betala våra lån.
+Inte särskillt troligt heller, men den här risken är iaf på riktigt.
+
+Den stora risken är att vi inte får engagemang.
+Dvs banker och investerare vill inte långa ut eller investera.
+Eller att kommuner inte nappar på ideen så att vi inte har någon stans att bygga.
+I båda fallen kan vi inte driva projeket, men kommer inte heller dra det så långt att vi behöver investera för mycket tid och pengar i det.
+Vi borde kunna skaffa letter of intents från alla innan vi kör.
+
+Den största risken är nog att banker av olika anledningar inte kan eller vill låna ut så mycket pengar som behövs i den modell vi har.
+Här skulle en tänkbar lösning kunna vara att regeringen går in som garant för lånet.
+Hur det går till vet vi inget om, men principen bör vara samma som vi andra lån.
+Det kostar inget för regeringen så länge allt går som vi tänker.
+Vi tycker att det här faktiskt vore lockande inför stundande val att partier kan skylta med att dom backar det här klimatprojektet.
+
 ## Samarbete
 När det kommer till platser för dessa parker så är vår idé att ha ett gediget samarbete med sveriges kommuner.
 Tanken är att det är på kommunnivå som man kan ta beslut om var det skulle vara lämpligt att placera dessa parker.
@@ -119,11 +153,13 @@ Kommunerna får aggera experter på sin ort. Dessutom har många kommuner redan 
 Denne bör vara rätt person att samarbeta med och antagligen ser en sån person fördelarna och möjligheterna med att bygga en park i dennes kommun.
 Alla kommuner rapporterar ju idag sitt klimatarbete till regeringen och det här skulle kunna vara en bra insats som dom kan driva på, eller iaf släppa igenom.
 
-Vi vill dock inte utnyttja detta samarbete. Många kommuner verkar ha det svårt att få ihop sina budgetar, så det vi erbjuder måste vara kostnadsfritt för kommunerna.
-Det kan t.o.m. vara så att vi måste arrendera den mark som parken ska stå på, isf får det räknas in i budgeten, men helst ser vi att vi får tillgång till mark i utbyte mot att kommunen hjälper till i Sveriges klimatanpassningsarbete.
+Vi vill dock inte utnyttja detta samarbete.
+Många kommuner verkar ha det svårt att få ihop sin ekonomi, så det vi erbjuder måste vara kostnadsfritt för kommunerna.
+Det kan t.o.m. vara så att vi måste arrendera den mark som parken ska stå på.
+I så fall får det räknas in i budgeten, men helst ser vi att vi får tillgång till mark i utbyte mot att kommunen hjälper till i Sveriges klimatanpassningsarbete.
 
 Något att ha i åtanke är att vi inte ska skada andra miljövärden.
-Med det menas t.ex. att vi inte ska skövla en massa skog för att sätta upp solpaneler.
+Med det menas att vi t.ex. inte ska skövla en massa skog för att sätta upp solcellspaneler.
 Tvärtom ska vi försöka utnyttja de ytor som inte är attraktiva för andra.
 Så länge panelerna kan stå i solen så har vi inte särskillt höga krav på platsen.
 Inga människor kommer t.ex. behöva vistas på platsen till vardags.
@@ -131,10 +167,13 @@ Inga människor kommer t.ex. behöva vistas på platsen till vardags.
 ## Extra positivt
 Som bonus när man sätter upp en sån här park är att man får ett relativt skyddat område av betydande storlek.
 Där kan man bedriva diverse olika miljö- och klimatfrämjande projekt.
+
 Som exempel kan man låta marken bli en vildäng där insekter och bin kan frodas och främja artrikedom, pollinering och liknande.
 Kanske kan det vara intressant för små fåglar eller sorkar att bygga sina bon här.
+Andra alternativ kan vara att bygga bon för forfåglar som gillar att vara långt upp i stolpar, eller varför inte samarbeta med SMHI och sätta upp meteorologiska stationer i parkerna.
+I andra parker har även SLU varit med och bedrivit projekt i parken.
+
 Ja, återigen så tror vi att kommunerna är experterna som kan ha egna små projekt lämpliga att bedrivas här.
-Ett annat alternativ är projekt drivna av t.ex. slu (så som det är gjort på en del parker i sverige)
 Det finns säkert massa bra saker man kan göra i kombination med solceller och det får vi hoppas att kommunerna ser som lite extra positivt i projektet.
 
 ## Byggnation
@@ -162,10 +201,12 @@ Det kanske inte är den mest ekonomiska lösningen, men får det plats i budgete
 Låt oss fundera en sekund på vad som skulle hända om vi sjösatte det här projektet.
 
 * Någon månad av grundarbete där vi läser på mer om ämnet, vilka aktörerna är och hur en budget skulle se ut.
+* Kanske be om lånegarentier från regeringen.
+* Jobba på att få lånelöfte från banker och liknande.
 * Utskick till alla sveriges kommuner där ett förslag på upplägg ges.
-* Någon månad av diskussioner ang detaljer som kommunerna kan tänkas ha samt intresseanmälan (letter of intent).
-* Prata med banker ang lån för att driva igenom de intresseanmälda kommunernas planer.
-* Skriva på när både banker och kommuner är nöjda.
+* Någon månad av diskussioner ang detaljer som kommunerna kan tänkas ha.
+* När en kommun vill vara med ordnar vi med en detaljerad plan för införandet i samarbete med kommunen, byggaren och banken.
+* Skriva på när alla är nöjda.
 * Beställa parkbyggnation av leverantörer.
 * Efter upp till ett halvår är parken igång och rullar på automatiskt i 30 år.
 
