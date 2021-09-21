@@ -44,6 +44,10 @@ table td:first-child {
 table td:first-child {
   border-left: 0px;
 }
+
+li > lu {
+  margin-bottom: 0px;
+}
 @media only screen and (min-width: 768px) {
   header a.button {
     background: transparent url(../images/sparti-button.png) 0 0 no-repeat;
