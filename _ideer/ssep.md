@@ -122,8 +122,7 @@ Det behöver vi inte oroa oss för på många miljarder år.
 
 En annan risk skulle vara att man inte kan sälja det man producerar.
 Men eftersom det finns en gemensam marknad där man alltid kan sälja till så är även denna risk minimal.
-I den här risken kan man även ha risken att efterfrågan försvinner.
-Det ser vi som högst osannolikt.
+I den här risken innefattar även att efterfrågan försvinner, vilket vi ser som högst osannolikt.
 
 Vi kommer inte heller ha något svinn i form av lagerproblem eller skillnader i tillverkning och konsumtion.
 Helt enkelt pga att det ända vi gör är att samla in den näst intill oändliga resursen och säljer den direkt till en omättlig marknad.
@@ -131,15 +130,14 @@ Helt enkelt pga att det ända vi gör är att samla in den näst intill oändlig
 Den risk vi ser är att elpriset dyker så att vi inte kan betala våra lån.
 Inte särskillt troligt heller, men den här risken är iaf på riktigt.
 
-Den stora risken är att vi inte får engagemang.
-Dvs banker och investerare vill inte långa ut eller investera.
-Eller att kommuner inte nappar på ideen så att vi inte har någon stans att bygga.
-I båda fallen kan vi inte driva projeket, men kommer inte heller dra det så långt att vi behöver investera för mycket tid och pengar i det.
-Vi borde kunna skaffa letter of intents från alla innan vi kör.
+Den stora risken är att vi inte får engagemang,
+dvs banker och investerare vill inte långa ut eller investera,
+eller att kommuner inte nappar på ideen så att vi inte har någon stans att bygga.
+I båda fallen kan vi inte driva projeket men detta kommer vi veta tidigt så vi kan avbryta innan vi investerat för mycket tid och pengar.
 
 Den största risken är nog att banker av olika anledningar inte kan eller vill låna ut så mycket pengar som behövs i den modell vi har.
 Här skulle en tänkbar lösning kunna vara att regeringen går in som garant för lånet.
-Hur det går till vet vi inget om, men principen bör vara samma som vi andra lån.
+Hur det går till vet vi inget om, men principen bör vara samma som vid andra lån.
 Det kostar inget för regeringen så länge allt går som vi tänker.
 Vi tycker att det här faktiskt vore lockande inför stundande val att partier kan skylta med att dom backar det här klimatprojektet.
 
@@ -170,8 +168,8 @@ Där kan man bedriva diverse olika miljö- och klimatfrämjande projekt.
 
 Som exempel kan man låta marken bli en vildäng där insekter och bin kan frodas och främja artrikedom, pollinering och liknande.
 Kanske kan det vara intressant för små fåglar eller sorkar att bygga sina bon här.
-Andra alternativ kan vara att bygga bon för forfåglar som gillar att vara långt upp i stolpar, eller varför inte samarbeta med SMHI och sätta upp meteorologiska stationer i parkerna.
-I andra parker har även SLU varit med och bedrivit projekt i parken.
+Andra alternativ kan vara att bygga bon för rovfåglar som gillar att vara långt upp i stolpar, eller varför inte samarbeta med SMHI och sätta upp meteorologiska stationer i parkerna.
+Redan idag bedriver SLU projekt i befintliga parken.
 
 Ja, återigen så tror vi att kommunerna är experterna som kan ha egna små projekt lämpliga att bedrivas här.
 Det finns säkert massa bra saker man kan göra i kombination med solceller och det får vi hoppas att kommunerna ser som lite extra positivt i projektet.
@@ -201,7 +199,7 @@ Det kanske inte är den mest ekonomiska lösningen, men får det plats i budgete
 Låt oss fundera en sekund på vad som skulle hända om vi sjösatte det här projektet.
 
 * Någon månad av grundarbete där vi läser på mer om ämnet, vilka aktörerna är och hur en budget skulle se ut.
-* Kanske be om lånegarentier från regeringen.
+* Be om lånegarantier från regeringen om vi väljer att försöka oss på det.
 * Jobba på att få lånelöfte från banker och liknande.
 * Utskick till alla sveriges kommuner där ett förslag på upplägg ges.
 * Någon månad av diskussioner ang detaljer som kommunerna kan tänkas ha.
