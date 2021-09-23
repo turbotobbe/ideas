@@ -223,4 +223,4 @@ I förlängningen vill vi nämligen göra detta i länder som är större elprod
 
 Låt oss bara leka med tanken för en sekund, att vi gör om 10% av Kinas kolbaserad elproduktion till solkraft. Ja, drömma är gratis har jag hört...
 
-[Frågor som behöver besvaras](/qas/ssep)
+[Frågor som behöver besvaras](/ideer/qas/ssep)

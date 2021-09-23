@@ -14,4 +14,4 @@ collections:
     permalink: /:name
   qas:
     output: true
-    permalink: /:name
+    permalink: /qas/:name
