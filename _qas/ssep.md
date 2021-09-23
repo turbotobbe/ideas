@@ -30,7 +30,7 @@ _..._
 _..._
 
 ## Fråga 5
-> Är det vettigt att ha solcellsparker i norr där solen skiner bara halva året?
+> Är det vettigt att ha solcellsparker i norr där solen bara skiner halva året?
 
 _..._
 
@@ -40,7 +40,7 @@ _..._
 _..._
 
 ## Fråga 7
-> Skulle de inte hellre använda det till att bygga bostäder?
+> Skulle kommunerna inte hellre använda marken till att bygga bostäder?
 
 _..._
 
@@ -50,7 +50,7 @@ _..._
 _..._
 
 ## Fråga 9
-> Brukar inte det ta typ 20 år innan de bestämmer något?
+> Brukar inte det ta typ 20 år innan kummunpolitiker bestämmer något?
 
 _..._
 
@@ -76,3 +76,7 @@ _..._
 
 _..._
 
+## Fråga 14
+> Vad är ett ställverk? Måste man ha ett sådant?
+
+_..._
