@@ -9,29 +9,70 @@ author:
 
 Frågor som behöver besvaras angående [ssep](/ideer/ssep).
 
-## Finns det övriga kostnader?
+## Fråga 1
+> Finns det övriga kostnader?
 
-### Vem betalar om en panel går sönder genom åren?
+_..._
 
-### Finns det underhåll/driftkostnader?
+## Fråga 2
+> Vem betalar om en panel går sönder genom åren?
 
-### Kommer personalkostnader äta upp vinsten?
+_..._
 
-## Är det vettigt att ha solcellsparker i norr där solen skiner bara halva året?
+## Fråga 3
+> Finns det underhåll/driftkostnader?
 
-## Hur mycket mark sitter kommunerna på?
+_..._
 
-### Skulle de inte hellre använda det till att bygga bostäder?
+## Fråga 4
+> Kommer personalkostnader äta upp vinsten?
 
-## Är det inte kommunpolitiker som bestämmer hur mark används?
+_..._
 
-### brukar inte det ta typ 20 år innan de bestämmer något?
+## Fråga 5
+> Är det vettigt att ha solcellsparker i norr där solen skiner bara halva året?
 
-## Hur börjar man?
+_..._
+
+## Fråga 6
+> Hur mycket mark sitter kommunerna på?
+
+_..._
+
+## Fråga 7
+> Skulle de inte hellre använda det till att bygga bostäder?
+
+_..._
+
+## Fråga 8
+> Är det inte kommunpolitiker som bestämmer hur mark används?
+
+_..._
+
+## Fråga 9
+> Brukar inte det ta typ 20 år innan de bestämmer något?
+
+_..._
+
+## Fråga 10
+> Hur börjar man?
+
 Bankerna vill nog att kommunerna är med först. Kommunerna vill veta att bankerna är villiga att investera. Moment 22.
 
-## Klarar solcellsbolagen av sådana stora projekt?
+_..._
 
-## Finns det tekniska begränsningar när man trycker in sådana stora mängder el i gridet?
+## Fråga 11
+> Klarar solcellsbolagen av sådana stora projekt?
 
-## Vattenfall är statlig, äger väl gridet. Kommer de att låta en konkurrent nyttja gridet?
+_..._
+
+## Fråga 12
+> Finns det tekniska begränsningar när man trycker in sådana stora mängder el i gridet?
+
+_..._
+
+## Fråga 13
+> Vattenfall är statlig, äger väl gridet. Kommer de att låta en konkurrent nyttja gridet?
+
+_..._
+
