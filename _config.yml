@@ -12,3 +12,6 @@ collections:
   ideer:
     output: true
     permalink: /:name
+  qas:
+    output: true
+    permalink: /:name

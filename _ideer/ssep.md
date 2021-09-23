@@ -141,6 +141,10 @@ Hur det går till vet vi inget om, men principen bör vara samma som vid andra l
 Det kostar inget för regeringen så länge allt går som vi tänker.
 Vi tycker att det här faktiskt vore lockande inför stundande val att partier kan skylta med att dom backar det här klimatprojektet.
 
+Idag finns något som kallas [grön kreditgaranti](https://www.riksgalden.se/sv/var-verksamhet/garantier-och-lan/grona-kreditgarantier/#) som inriktar sig på den här typen av riktigt stora "gröna" projekt.
+Det finns en garantiram där som uppgår till 10 miljarder kr och skall enligt förslag även höjas framöver.
+En fundering är om man skulle kunna få en sån här kreditgaranti som täcker den årliga avbetalningen och räntan till banken, alltså ca en tjugondel av hela investeringen, istället för en garanti på den totala investeringen.
+
 ## Samarbete
 När det kommer till platser för dessa parker så är vår idé att ha ett gediget samarbete med sveriges kommuner.
 Tanken är att det är på kommunnivå som man kan ta beslut om var det skulle vara lämpligt att placera dessa parker.
@@ -219,18 +223,4 @@ I förlängningen vill vi nämligen göra detta i länder som är större elprod
 
 Låt oss bara leka med tanken för en sekund, att vi gör om 10% av Kinas kolbaserad elproduktion till solkraft. Ja, drömma är gratis har jag hört...
 
----
-
-## Frågor som behöver besvaras
-* Finns det övriga kostnader?
-  - Vem betalar om en panel går sönder genom åren?
-  - Finns det underhåll/driftkostnader?
-  - Kommer personalkostnader äta upp vinsten?
-* Är det vettigt att ha solcellsparker i norr där solen skiner bara halva året?
-* Hur mycket mark sitter kommunerna på?
-  - Skulle de inte hellre använda det till att bygga bostäder?
-* Är det inte kommunpolitiker som bestämmer hur mark används?
-  - brukar inte det ta typ 20 år innan de bestämmer något?
-* hur börjar man? (Bankerna vill nog att kommunerna är med först. Kommunerna vill veta att bankerna är villiga att investera. Moment 22.)
-* Klarar solcellsbolagen av sådana stora projekt?
-* Finns det tekniska begränsningar när man trycker in sådana stora mängder el i gridet?
+[Frågor som behöver besvaras](/qas/ssep)
