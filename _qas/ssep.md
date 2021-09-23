@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SSEP
-description: Question and Answers
+description: Frågor och svar
 author:
   name: Thobias Bergqvist
   mail: thobias.bergqvist@sparti.se
