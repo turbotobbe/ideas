@@ -5,6 +5,7 @@ description: Svenska Sol Energi Parker
 author:
   name: Thobias Bergqvist
   mail: thobias.bergqvist@sparti.se
+date: 2021-09-22
 ---
 
 **En 100 MW solenergipark i varje svensk kommun.**
