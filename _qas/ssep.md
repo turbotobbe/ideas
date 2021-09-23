@@ -7,7 +7,7 @@ author:
   mail: thobias.bergqvist@sparti.se
 ---
 
-Frågor som behöver besvaras angående [ssep](/ideer/ssep).
+Frågor som behöver besvaras angående [Svenska Sol Energi Parker](/ideer/ssep).
 
 ## Fråga 1
 > Finns det övriga kostnader?
